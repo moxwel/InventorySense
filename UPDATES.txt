@@ -1,5 +1,23 @@
 --------------------
 
+ [ Version 1.4.2 ]
+
+    Fixed Minecraft Realms newspaper icon.
+
+    [OF] Added different backgrounds to dimension loading.
+        Now, when you enter a different dimension, the background of
+        the loading screen changes according to the dimension you are entering.
+
+    [OF] Improved beacon container UI.
+        Now it has the actual level of the beacon highlighted.
+
+    Improved smithing table UI.
+        Now the icon is the smithing table.
+
+    Improved F3 + F4 gamemode switcher.
+
+--------------------
+
  [ Version 1.4.1 ]
 
     Fixed beacon container UI.
