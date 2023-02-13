@@ -1,5 +1,34 @@
 --------------------
 
+ [ Version 1.5 ]
+
+    Updated 'pack_format'. Now compatible with MC 1.19.3.
+
+    Fixed misaligned tabs in creative inventory.
+
+    Fixed compact effect status.
+
+    Fixed gamemode selector.
+
+    Changed recipe book icon.
+
+    Changed resolution to anvil and smithing table GUI.
+
+    Changed beacon selected effect icon.
+
+    Changed beacon effect status.
+
+    Changed brewing stand icons.
+
+    Added report button.
+
+    Added bundle slot texture.
+
+    Dropped support for 1.14-1.18.
+        These changes are incompatible with older versions.
+
+--------------------
+
  [ Version 1.4.4 ]
 
     Updated 'pack_format'. Now compatible with MC 1.17.
