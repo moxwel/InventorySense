@@ -1,5 +1,11 @@
 --------------------
 
+ [ Version 1.4.4 ]
+
+    Updated 'pack_format'. Now compatible with MC 1.17.
+
+--------------------
+
  [ Version 1.4.3 ]
 
     Changed the social interaction GUI.
