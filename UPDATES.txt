@@ -1,5 +1,13 @@
 --------------------
 
+ [ Version 1.4.3 ]
+
+    Changed the social interaction GUI.
+
+    Small no-worthy changes and pixel-level fixes.
+
+--------------------
+
  [ Version 1.4.2 ]
 
     Fixed Minecraft Realms newspaper icon.
