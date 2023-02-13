@@ -1,0 +1,7 @@
+This folder is meant to be a "compatibility mode" between 1.12 and 1.13.
+
+1.12 use the "items" folder to textures.
+
+1.13 use the "item" folder to textures.
+
+Why? I don't know, Mojang things :P
