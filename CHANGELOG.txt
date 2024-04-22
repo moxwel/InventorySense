@@ -1,5 +1,24 @@
 --------------------
 
+ [ Version 1.6 ]
+
+    Updated 'pack_format'. Now compatible with MC 1.20 through 1.20.4.
+
+    Updated smithing table container to fit 1.20's smithing changes.
+        Pre-1.20 smithing container was left as 'legacy_smithing.png'.
+
+    Updated Realms textures.
+
+    Added 'sprites' directory for 1.20+ support.
+
+    Added empty item slots textures.
+
+    Added textures for sliders.
+
+    Added textures for experimental 1.21 containers (crafter).
+
+--------------------
+
  [ Version 1.5 ]
 
     Updated 'pack_format'. Now compatible with MC 1.19.3.
